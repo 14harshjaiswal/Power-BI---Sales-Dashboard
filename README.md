@@ -17,14 +17,20 @@ Time-based Analysis: Allows for analyzing sales trends over time, such as monthl
 To get started with this Power BI sales dashboard, follow these steps:
 
 1.Clone the repository to your local machine.
+
 2.Open Power BI Desktop.
+
 3.Open the .pbix file located in the project folder.
+
 4.Make sure the necessary data sources are connected and configured.
+
 5.Customize the visuals and calculations as needed.
+
 6.Save and publish the dashboard to Power BI Service or export it as a report.
 
 # Requirements
 1.Power BI Desktop
+
 2.Power BI Service or Power BI Report Server (optional for publishing)
 
 # Contributing
